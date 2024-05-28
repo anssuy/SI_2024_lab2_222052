@@ -50,7 +50,7 @@ public class SILab2 {
 ```
 
 # 2. Control Flow Graph 
-![cfg](https://media.discordapp.net/attachments/1054498402592890990/1241776655119417504/Untitled_Diagram.drawio1.png?ex=664b6e21&is=664a1ca1&hm=75a65b4c05a423da0961df7a475f89a0cb80f932ec4c21742dab26b4f7407aa8&=&format=webp&quality=lossless&width=621&height=662)
+![cfg](cfg.png)
 
 # 3. Цикломатска комплексност
 Пресметуваме според формулата V(G) = E - N + 2 (E - бројот на ребра и N - бројот на јазли). <br/>
